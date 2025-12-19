@@ -14,7 +14,7 @@ A fully serverless REST API built on AWS using Terraform.
 ┌─────────────────────────────────────────────────────────────────────────────┐
 │                          AWS SERVERLESS ARCHITECTURE                        │
 │                                                                             │
-│    CLIENTS (Browser/Postman/curl)                                           │
+│    CLIENTS (Browser/curl)                                                   │
 │          │                                                                  │
 │          ▼                                                                  │
 │    ┌───────────────────────────────────────────────────────┐                │
